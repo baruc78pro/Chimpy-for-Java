@@ -1,7 +1,9 @@
 # Chimpy-for-Java
-Chimpy pseudolenguaje de programación inspirado en Java
+Chimpy pseudolenguaje de programación inspirado en Java.
 
-Chimpy es un pseudolenguaje de programación inspirado en Java, diseñado especialmente para simplificar el aprendizaje de la programación y hacer que el proceso de desarrollo sea más accesible. A través de una sintaxis en español, Chimpy permite a los programadores escribir código de manera intuitiva y comprensible, que luego se traduce automáticamente a Java.
+[![copilot-image-1739988677648-removebg-preview-1.png](https://i.postimg.cc/v80CvLjN/copilot-image-1739988677648-removebg-preview-1.png)](https://postimg.cc/mhFdLMTY)
+
+Diseñado especialmente para simplificar el aprendizaje de la programación y hacer que el proceso de desarrollo sea más accesible. A través de una sintaxis en español, Chimpy permite a los programadores escribir código de manera intuitiva y comprensible, que luego se traduce automáticamente a Java.
 
 El principal objetivo de Chimpy es permitir que los usuarios, sin importar su nivel de experiencia, aprendan y comprendan los conceptos fundamentales de la programación sin enfrentarse a la complejidad de los lenguajes tradicionales. Con Chimpy, los usuarios pueden:
 
