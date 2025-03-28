@@ -17,3 +17,13 @@ Ser una herramienta educativa: Chimpy está pensado como un puente entre los fun
 
 Optimizar el desarrollo rápido de proyectos: Gracias a su sintaxis simplificada, los programadores pueden concentrarse en la lógica y el diseño de sus proyectos sin tener que escribir código detallado y tedioso.
 Chimpy está diseñado no solo como una herramienta educativa, sino también como un medio para que los programadores puedan generar código Java rápidamente mientras aprenden y exploran los conceptos fundamentales de la programación.
+
+Ejemplos:
+
+Caso 1:
+
+[![image.png](https://i.postimg.cc/PJWnn03C/image.png)](https://postimg.cc/0KyBpXqv)
+
+Salida:
+
+[![image.png](https://i.postimg.cc/DfMXSHw9/image.png)](https://postimg.cc/vD5BjP9h)
